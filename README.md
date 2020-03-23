@@ -17,7 +17,7 @@ The compilation is done through `CMake` :
 ````bash
 mkdir build
 cd build
-cmake ..
+cmake ../SolarSystem
 make
 
 
